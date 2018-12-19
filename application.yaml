@@ -14,4 +14,4 @@ jhipster:
             jwt:
                 secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
 
-foo: 18
+app: 18
